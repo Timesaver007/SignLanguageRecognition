@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342130909478",
+    "project_id": "imad-captcha",
+    "storage_bucket": "imad-captcha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342130909478:android:f4f5aa8f9e361a9e2261e7",
+        "android_client_info": {
+          "package_name": "com.example.imad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342130909478-ku6k4hjnog30r1uu4smmkkmkv53j97p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNse1oZKYGs9pg5dvKMNcpnArmhLNWOYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342130909478-ku6k4hjnog30r1uu4smmkkmkv53j97p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

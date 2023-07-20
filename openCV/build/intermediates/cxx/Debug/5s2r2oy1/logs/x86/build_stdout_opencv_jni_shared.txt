@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\PRASHANT SINGH\Downloads\IMADLatest\IMADfinal\openCV\.cxx\Debug\5s2r2oy1\x86'
+ninja: no work to do.
